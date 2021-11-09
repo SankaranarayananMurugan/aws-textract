@@ -19,7 +19,6 @@ env/
 *.csv
 *.xls
 *.xlsx
-*.txt
 *.zip
 settings.json
 
