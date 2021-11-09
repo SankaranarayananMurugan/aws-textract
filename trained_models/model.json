@@ -1,0 +1,29 @@
+{
+    "Invoice No.": [
+        "invoice number:",
+        "invoice#",
+        "number",
+        "invoice no.",
+        "invoice #",
+        "invoice number",
+        "number:"
+    ],
+    "Invoice Date": [
+        "invoice date:",
+        "invoice date",
+        "date:",
+        "date"
+    ],
+    "Invoice Amount": [
+        "invoice total:",
+        "invoice total",
+        "total amount due",
+        "balance due",
+        "total due",
+        "total:",
+        "total due . pay from this invoice",
+        "amount this invoice inclucing tax us dollars",
+        "pay this amount",
+        "amount due"
+    ]
+}
