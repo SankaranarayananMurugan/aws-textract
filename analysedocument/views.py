@@ -79,6 +79,3 @@ class PatternRecognitionView(APIView):
                     })
 
         return Response(recognised_labels, status=status.HTTP_200_OK)
-
-# AKIA27WJF5N3J7XJFD7D
-# mlKwP3JgW8UoAu9GQqkM6/FDZdDZ1C4pYDLkpb0y
